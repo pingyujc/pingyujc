@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 My name is Jonathan, a CS student at University of California, Santa Barbara.
 
+I am super interested in learning blockchain technology, creating smart contracts, and making on-chain automations.
+
