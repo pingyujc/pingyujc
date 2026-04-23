@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Jonathan, Full Stack Software Engineer at C3 AI.
-
-I love building cool stuff.
-
-I am super interested in learning blockchain technology, creating smart contracts, and making on-chain automations.
+Building +ev money printer.
+Building agents.
 
