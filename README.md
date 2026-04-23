@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Building +ev money printer.
-Building agents.
+Building +ev money printing agents.
 
